@@ -10,4 +10,4 @@ Projects will include (but are not limited to):
 - PowerShell.
 
 # Contact me:
-You can reach out to me on <a href="https://www.linkedin.com/in/stuart-munn-ba6285165/">LinkedIn</a> for collaboration or job opportunities. CV can be supplied upon request.
+You can reach out to me on <a href="https://www.linkedin.com/in/stuart-munn-ba6285165/" target="_blank">LinkedIn</a> for collaboration or job opportunities. CV can be supplied upon request.
