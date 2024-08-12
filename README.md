@@ -2,7 +2,7 @@
 
 My name is Stuart. I am interested in all things Cloud! ☁️
 
-My long term plan is to eventually work within Cloud or DevOps. This profile will act as progression record for projects related to Cloud and development work. Feel free to check out my public repositories which showcase my work and experience. All public repositories will be used for personal learning and not for commercial use.
+My long term plan is to eventually work in the Cloud or DevOps sections of IT. This profile will act as a progression record for projects relating to Cloud and development work. Feel free to check out my public repositories which showcase my work and experience. All public repositories will be used for personal learning and not for commercial use.
 
 Projects will include (but are not limited to):
 - Linux/Bash.
