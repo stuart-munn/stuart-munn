@@ -1,4 +1,4 @@
-# Greetings! Welcome to my profile! ✋ 😄
+# Welcome to my profile! ✋ 😄
 
 My name is Stuart. I am interested in all things Cloud! ☁️
 
